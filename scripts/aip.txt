@@ -1,0 +1,452 @@
+Region,Chr. Position (GRCh37/hg19),dbSNP rs#/Genbank ref/Mutation id (COSMIC),Heterozygosity,HapMap allele/genotype frequencies,MAF dbSNP (%),MAF EVS (%),MAF EuropeanAmerican EVS (%),MAF AfricanAmerican EVS (%),Codon position,DNA level,Protein level,Aminoacid position,Variant type,Pathogenicity,In silico prediction (PONP),In silico prediction (Alamut),References,Comments,
+5' near gene,67248532,rs1638579 ,N.D.,,,,,,-,g.3028T>G,-,-,promoter,N.A.,,
+5' near gene,67248638,rs11828274 ,0.006,,0.32,,,,-,g.3134C>A,-,-,promoter,N.A.,,
+5' near gene,67248677,rs1638580 ,0.346,,,,,,-,g.3173delA,-,-,promoter,N.A.,,
+5' near gene,67248677,rs370928135,N.D.,,,,,,-,g.3173A>T,-,-,promoter,N.A.,,
+5' near gene,67248898,rs1790743 ,0.168,,9.27,,,,-,g.3394C>T,-,-,promoter,no,,
+5' near gene,67248970,rs181461909,0.004,,0.18,,,,-,g.3466C>T,-,-,promoter,N.A.,,
+5' near gene,67249058-67249059,rs67365326 ,N.D.,,,,,,-,g.3554_3555insG,-,-,promoter,N.A.,,
+5' near gene,67249155,rs373500637,N.D.,,,,,,-,g.3651T>G,-,-,promoter,N.A.,,
+5' near gene,67249220,rs369248237,N.D.,,,,,,-,g.3716C>T,-,-,promoter,N.A.,,
+5' near gene,67249234,rs1849113675,0.003,,0.14,,,,-,g.3730C>A,-,-,promoter,N.A.,,
+5' near gene,67249296,rs118100488,0.017,,0.87,,,,-,g.3792T>A,-,-,promoter,N.A.,,
+5' near gene,67249397,rs1638581 ,0.171,,9.41,,,,-,g.3893C>T,-,-,promoter,no,,
+5' near gene,67249589,rs111545360/EU723703,0.132,,7.1200,,,,-,g.4085A>G,-,-,promoter,no,,,"Igreja et al., 2009","wrong nomenclature in Igreja et al., 2009 (c.-1041 A>G). This variant was found in 3 out of 95 Caucasian controls (Igreja et al., 2009)",
+5' near gene,67249612,rs200878413,N.D.,,,,,,-,g.4108G>A,-,-,promoter,N.A.,,
+5' near gene,67249694,rs71457777 ,0.5,,,,,,-,g.4190T>C,-,-,promoter,N.A.,,
+5' near gene,67249740,rs148149334,0.004,,0.18,,,,-,g.4236C>T,-,-,promoter,N.A.,,
+5' near gene,67249760,rs1638582 ,N.D.,,,,,,-,g.4256A>C,-,-,promoter,N.A.,,
+5' near gene,67249778,rs1638583 ,N.D.,,,,,,-,g.4274A>C,-,-,promoter,N.A.,,
+5' near gene,67249801-67249805,rs201681859,0.021,,1.06,,,,-,g.4297_4301delTTTAA,-,-,promoter,N.A.,,
+5' near gene,67249814,rs189761044,0.007,,0.37,,,,-,g.4310T>A,-,-,promoter,N.A.,,
+5' near gene,67249818,rs376631316,N.D.,,,,,,-,g.4314T>G,-,-,promoter,N.A.,,
+5' near gene,67249827,rs35580926,N.D.,,,,,,-,g.4323delT,-,-,promoter,N.A.,,
+5' near gene,67249827,rs35580926,N.D.,,,,,,-,g.4323T>G,-,-,promoter,N.A.,,
+5' near gene,67249911,rs181072302,0.009,,0.46,,,,-,g.4407C>G,-,-,promoter,N.A.,,
+5' near gene,67250127,rs185280967,0.001,,0.05,,,,-,g.4623C>T,-,-,promoter,N.A.,,
+5' near gene,67250231,rs201817175,N.D.,,,,,,-,g.4727delT,-,-,promoter,N.A.,,
+5' near gene,67250289,rs369010349,N.D.,,,,,,-,g.4785delC,-,-,promoter,N.A.,,
+5' near gene,67250329,rs369752687,N.D.,,,,,,-,g.4825T>C,-,-,promoter,N.A.,,
+5' near gene,67250360-67250361,,,,,,,,-,c.-270-269delinsAA,-,-,promoter,yes,,,"Soares et al., 2005 & Leontiou et al., 2008 & Igreja et al., 2010",wrong nomenclature in the article (c.-270_-269CG>AA). Pathogenicity based on functional studies presented in Igreja et al. 2010: reduced promoter activity demonstrated by luciferase assay and reduced AIP expression by RT-qPCR,
+5' near gene,67250368,,,,,,,,-,g.4864G>A,-,-,promoter,N.A.,,,"Leontiou et al., 2008","wrong nomenclature in the article (c.-262G>A). Found in a sporadic patient and in a control in Leontiou et al., 2008",
+5' near gene,67250410,EF643645,,,,,,,-,g.4906G>A,-,-,promoter,no,,,"Soares et al., 2005 & Leontiou et al., 2008 & Igreja et al., 2010",wrong nomenclature in the article (c.-220G>A). Pathogenicity based on functional studies presented in Igreja et al. 2010: no reduced promoter activity demonstrated by luciferase assay,
+5' near gene,67250443,rs374248735,N.D.,,,,,,-,g.4939C>G,-,-,promoter,N.A.,,
+5' near gene,67250464,rs12271280 ,N.D.,,,,,,-,g.4960G>A,-,-,promoter,N.A.,,
+5'UTR,67250544,rs1049506 ,N.D.,,,,,,-,c.-86G>A,-,-,,N.A.,,no
+5'UTR,67250553,rs377565228,N.D.,,,,,,-,c.-77C>G,-,-,,N.A.,,likely
+5'UTR,67250573,rs369451483,N.D.,,,,,,-,c.-57T>C,-,-,,N.A.,,unlikely
+5'UTR,67250607,rs200665479,0.001,,0.05,0.0924,0,0.2727,-,c.-23A>G,-,-,,no,,no,data from EVS only,,
+5'UTR,67250617,rs199681649,N.D.,,,,,,-,c.-13G>A,-,-,,no,,no
+5'UTR,67250625,rs267606562,,,,,,,-,c.-5G>C,-,-,,unlikely,,unlikely,"Georgitsi et al., 2007a",,
+5'UTR,67250628,rs377710724,N.D.,,,,,,-,c.-2G>A,-,-,,N.A.,,no
+exon 1,67250632,rs267606546,,,,,,,2,c.2T>C,p.?,1,start codon,yes,,no,"Personnier et al., 2011",wrong nomenclature in the article,
+exon1,67250633,,,,,,,,3,c.3G>A,p.?,1,start codon,yes,,,"Our lab, unpublished - Belfast 63, Belfast 72, both sporadic","Belfast 63, Sp Acro, F, 36 y. onset, 9mm tumour, GH and few PRL pos. cells, Belfast 72, Sp Acro, M, 21 y onset, 169 cm tall, size nk, radiotherapy only",
+exon 1,67250633-67250634,rs267606547,,,,,,,-,c.3_4insC,p.A2Rfs*43,2,frameshift,yes,,,"Xekouki et al., 2011",wrong nomenclature in the article,
+exon 1,67250655,rs139459091,0.001,,0.05,0.0308,0.0466,0,2,c.26G>A,p.R9Q,9,missense,likely,no,unlikely,"Farrugia et al., 2008 unpublished data & Formosa et al., 2010; Cazabat et al., 2012; Oriola et al., 2012","pathogenicity based on clinical data since in silico data suggest no pathogenicity. Found very rarely in controls. Found in a young female patient with a macroprolactinoma (Cazabat et al., 2012), in a young female patient diagnosed at 21 years with a macrosomatotropinoma showing a complete resistance to somatostatin analogues, but good response to PEG treatment (Oriola et al., 2012), and in a Maltese acromegaly patients (Formosa et al., 2010). In vitro studies showed an increased proliferation in primary cell cultures compared to primary cells with wt AIP (Formosa et al., 2010)",
+exon 1,67250655,COSM544674,,,,,,,2,c.26G>T,p.R9L,9,missense,unlikely,unlikely,unlikely,http://cancer.sanger.ac.uk/cosmic/mutation/overview?id=544674,somatic variation. Found in a lung carcinoma (zygosity status unknown),
+exon 1,67250665,rs79662690,0.001,,0.05,0.0616,0.0815,0.0227,3,c.36G>A (p.(=)),,12,synonymous,no,,no,"Yu et al., 2006; Georgitsi et al., 2007a; Cazabat et al., 2007; Leontiou et al., 2008; Raitila et al., 2009",,
+exon 1,67250667,rs376913545,N.D.,,,0.0077,0.0116,0,2,c.38T>A,p.I13N,13,missense,N.A.,N.A.,likely,"ESV, Salvatori giant patient (Salvatori et al 2014)",1/4295 European EVS samples,
+exon 1,67250669,rs104894194/EF066510,,,,,,,1,c.40C>T,p.Q14*,14,nonsense,yes,,,"Vierimaa et al., 2006; Georgitsi et al., 2007b; Raitila et al., 2007",,
+exon 1,67250676,rs145047094/EF066510,0.004,,0.1,0.254,0.3492,0.0682,2,c.47G>A,p.R16H,16,missense,no,unlikely,N.A.,"Georgitsi et al., 2007a; Georgitsi et al., 2007b; Cazabat et al., 2007; Daly et al., 2007; Raitila et al., 2009; Buchbinder et al., 2008; Guaraldi & Salvatori, 2011; Tichomirowa et al., 2011; Cazabat et al., 2012; Baciu et al., 2012; Zatelli et al., 2012; Baciu et al, 2013","no pathogenic based mainly on Guaraldi & Salvatori, 2011 (does not segregate with the disease). 2 sp. giants: 1 Nadya and 1 dr. Bogazzi - Italy (personal comm). LOH was studied only in Georgitsi et al., 2007a, where it was NOT found in 2 CRC samples, and in Georgitsi 2007b, where it was NOT found in a sporadic acromegaly patient. In all the other papers LOH was NOT investigated. R16H does not affect the AIP-RET interaction (Vargiolu et al., 2009). The variant, while relatively stable, degrades more quickly than the wild type protein (12.5 hours) (Martucci et al., 2012).",
+exon 1,67250681,COSM194557,,,,,,,1,c.52A>G,p.I18V,18,missense,N.A.,no,unlikely,http://www.sanger.ac.uk/perl/genetics/CGP/cosmic?action=mut_summary&id=194557,somatic variation (COSMIC database) found in a large intestine carcinoma sample (zygosity status unknown),
+exon 1,67250687,,,,,,,,1,c.58G>T,p.E20*,20,nonsense,yes,,,"Cuny et al., 2013",,
+exon 1,67250692,rs199913396,0.002,,0.09,,,,3,c.63C>T (p.(=)),,21,synonymous,N.A.,,unlikely
+exon 1,67250693,rs121908357,,,,,,,1,c.64C>T,p.R22*,22,nonsense,yes,,,"Barlier et al., 2007; Tichomirowa et al., 2011; Cuny et al., 2013",,
+exon 1,67250695-67250700,rs267606567,,,,,,,-,c.66_71delAGGAGA,p.G23_E24del,-,in-frame deletion,yes,,,"Georgitsi et al., 2007b",,
+exon 1,67250697,rs116940576,0.004,,0.18,0.0539,0.0698,0.0227,2,c.68G>A,p.G23E,23,missense,N.A.,likely,likely,"Georgitsi et al., 2007a; Cazabat et al., 2007; Raitila et al., 2007",,
+exon 1,67250699,rs267606568/EF643644,,,,,,,1,c.70G>T,p.E24*,24,nonsense,yes,,,"Gadelha et al., 1999 & Leontiou et al., 2008",,
+exon 1,67250701,rs201958318,0.001,,0.05,,,,3,c.72G>C,p.E24D,24,missense,N.A.,no,no,"1000 genomes SNP, no frequency data",,
+exon 1,67250703-67250710,rs104895074,,,,,,,-,c.74_81delins7,p.L25Pfs*130,25,frameshift,yes,,,"Pestell et al., 1989 & Igreja et al., 2010",,
+exon 1,67250704,COSM234375,,,,,,,3,c.75C>T (p.(=)),,25,synonymous,no,,unlikely,http://cancer.sanger.ac.uk/cosmic/mutation/overview?id=234375,"somatic variation (COSMIC database) found in the LAU149 cell line (malignant melanoma) in heterozygosis, and in a lung carcinoma (zygosity status unknown)",
+exon 1,67250713,rs371423932,N.D.,,,0.0077,0,0.0227,3,c.84T>C (p.(=)),,28,synonymous,N.A.,,unlikely
+exon 1,67250717-67250718,GQ847775.1,,,,,,,-,c.88_89delGA,p.D30Wfs*14,30,frameshift,yes,,,"Tichomirowa et al., 2011 & Cuny et al., 2013",,
+exon 1,67250719,rs374324200,N.D.,,,0.0077,0,0.0227,3,c.90T>C (p.(=)),,30,synonymous,N.A.,,unlikely
+exon 1,67250719,,,,,,,,3,c.90T>G,p.D30E,30,missense,likely,no,unlikely,"Cai et al., 2013","In Cai et al., 2013 LOH was found (deletion of some AIP exons). In the same article predicted in silico to have an effect on AIP structure: molecular modeling indicated that this variant interferes with the secondary structure of the PPIase-like domain. Pathogenicity based on LOH and in silico analysis",
+exon 1,67250722,rs371636632,N.D.,,,0.0077,0.0116,0,3,c.93G>T (p.(=)),,31,synonymous,N.A.,,unlikely
+intron 1,,,,,,,,,,c.(?_-50)_(99+1_100-1)del,p.0?,-,intronic,,,,Sp1717,,
+intron 1,67250737,rs374003812,N.D.,,,0.0077,0,0.0227,-,c.99+9C>T,-,-,intronic,N.A.,,unlikely
+intron 1,67250738,rs187051018,0.001,,0.05,,,,-,c.99+10T>C,-,-,intronic,N.A.,,unlikely
+intron 1,67250753,rs201382386,0.001,,0.05,,,,-,c.99+25C>T,-,-,intronic,N.A.,,unlikely
+intron 1,67250755,rs200264737,0.001,,0.05,,,,-,c.99+27C>G,-,-,intronic,N.A.,,unlikely
+intron 1,67250766,rs373339489,N.D.,,,0.0154,0.0233,0,-,c.99+38T>G,-,-,intronic,N.A.,,N.A.
+intron 1,67250906,rs143968953,0.004,,0.18,,,,-,c.99+178T>G,-,-,intronic,N.A.,,
+intron 1,67250913,rs371177056,N.D.,,,,,,-,c.99+185C>T,-,-,intronic,N.A.,,
+intron 1,67251033,rs191443582,0.002,,0.09,,,,-,c.99+305G>T,-,-,intronic,N.A.,,
+intron 1,67251034,rs376184207,N.D.,,,,,,-,c.99+306C>T,-,-,intronic,N.A.,,
+intron 1,67251035,rs12272798 ,0.102,http://hapmap.ncbi.nlm.nih.gov/cgi-perl/snp_details_phase3?name=rs12272798&source=hapmap28_B36&tmpl=snp_details_phase3,5.37,,,,-,c.99+307C>T,-,-,intronic,no,,
+intron 1,67251108-67251109,rs35392564 ,0.397,,27.32,,,,-,c.99+380_381delTT,-,-,intronic,no,,
+intron 1,67251254,rs1638584 ,0.172,http://hapmap.ncbi.nlm.nih.gov/cgi-perl/snp_details_phase3?name=rs1638584&source=hapmap28_B36&tmpl=snp_details_phase3,9.5,,,,-,c.99+526T>C,-,-,intronic,no,,
+intron 1,67251278,rs183589142,0.001,,0.05,,,,-,c.99+550T>C,-,-,intronic,N.A.,,
+intron 1,67251302,rs1638585 ,0.199,http://hapmap.ncbi.nlm.nih.gov/cgi-perl/snp_details_phase3?name=rs1638585&source=hapmap28_B36&tmpl=snp_details_phase3,11.2,,,,-,c.99+574G>C,-,-,intronic,no,,
+intron 1,67251320,rs374706460,N.D.,,,,,,-,c.99+692G>A,-,-,intronic,N.A.,,
+intron 1,67251422,rs188081771,0.001,,0.05,,,,-,c.99+694C>T,-,-,intronic,N.A.,,
+intron 1,67251454, rs146909894,0.002,,0.09,,,,-,c.99+726A>G,-,-,intronic,N.A.,,
+intron 1,67251478, rs139310569  ,0.001,,0.05,,,,-,c.99+750G>A,-,-,intronic,N.A.,,
+intron 1,67251678,rs190085354,0.001,,0.05,,,,-,c.99+950G>A,-,-,intronic,N.A.,,
+intron 1,67251819,rs182330632,0.002,,0.09,,,,-,c.99+1091C>G,-,-,intronic,N.A.,,
+intron 1,67251855,rs79806126 ,0.008,,0.41,,,,-,c.99+1127A>G,-,-,intronic,N.A.,,
+intron 1,67251999,rs376096915,N.D.,,,,,,-,c.99+1271C>T,-,-,intronic,N.A.,,
+intron 1,67252058,rs186475786,0.002,,0.09,,,,-,c.99+1330C>T,-,-,intronic,N.A.,,
+intron 1,67252069, rs150811507,N.D.,,0,,,,-,c.99+1341A>G,-,-,intronic,N.A.,,
+intron 1,67252174,rs372698845,N.D.,,,,,,-,c.99+1446A>G,-,-,intronic,N.A.,,
+intron 1,67252177,rs1618605 ,0.171,http://hapmap.ncbi.nlm.nih.gov/cgi-perl/snp_details_phase3?name=rs1618605&source=hapmap28_B36&tmpl=snp_details_phase3,9.41,,,,-,c.99+1449G>T,-,-,intronic,no,,
+intron 1,67252314,rs192602031,0.003,,0.14,,,,-,c.99+1586C>T,-,-,intronic,N.A.,,
+intron 1,67252400,rs1620333 ,0.197,http://hapmap.ncbi.nlm.nih.gov/cgi-perl/snp_details_phase3?name=rs1620333&source=hapmap28_B36&tmpl=snp_details_phase3,11.07,,,,-,c.99+1672C>T,-,-,intronic,no,,
+intron 1,67252442,rs374195233,N.D.,,,,,,-,c.99+1714G>A,-,-,intronic,N.A.,,
+intron 1,67252450,rs185429777,0.003,,0.14,,,,-,c.99+1722T>G,-,-,intronic,N.A.,,
+intron 1,67252471,rs188992142,0.001,,0.05,,,,-,c.99+1743T>G,-,-,intronic,N.A.,,
+intron 1,67252502,rs368371842,N.D.,,,,,,-,c.99+1774G>T,-,-,intronic,N.A.,,
+intron 1,67252631-67252632,rs35670062 ,N.D.,,,,,,-,c.100-1845_1846insG,-,-,intronic,N.A.,,
+intron 1,67252653,rs192960256,0.002,,0.09,,,,-,c.100-1824C>T,-,-,intronic,N.A.,,
+intron 1,67252785, rs138143051,0.002,,0.09,,,,-,c.100-1692C>T,-,-,intronic,N.A.,,
+intron 1,67252904, rs149598350,0.006,,0.32,,,,-,c.100-1573T>C,-,-,intronic,N.A.,,
+intron 1,67252989,rs595130 ,0.499,,48.03,,,,-,c.100-1488T>A,-,-,intronic,no,,
+intron 1,67253088,rs201456911,N.D.,,,,,,-,c.100-1389C>A,-,-,intronic,N.A.,,
+intron 1,67253136-67253137,rs57126355 ,N.D.,,,,,,-,c.100-1340_1341insA,-,-,intronic,N.A.,,
+intron 1,67253195-67253196, rs149993602,N.D.,,,,,,-,c.100-1282_100-1281delTT,-,-,intronic,N.A.,,
+intron 1,67253195-67253197, rs139303676,N.D.,,,,,,-,c.100-1282_100-1280delTTT,-,-,intronic,N.A.,,
+intron 1,67253215,rs57783261 ,0.375,,,,,,-,c.100-1262delT,-,-,intronic,N.A.,,
+intron 1,67253215,rs57783261 ,0.375,,,,,,-,c.100-1262delTinsTT,-,-,intronic,N.A.,,
+intron 1,67253215,rs57783261 ,0.375,,,,,,-,c.100-1262delTinsTTT,-,-,intronic,N.A.,,
+intron 1,67253232,rs185275707,0.003,,0.14,,,,-,c.100-1245C>T,-,-,intronic,N.A.,,
+intron 1,67253244, rs144276045,0.011,,0.55,,,,-,c.100-1233C>T,-,-,intronic,N.A.,,
+intron 1,67253307,rs374334224,N.D.,,,,,,-,c.100-1170C>T,-,-,intronic,N.A.,,
+intron 1,67253351,rs188842535,0.008,,0.41,,,,-,c.100-1126T>C,-,-,intronic,N.A.,,
+intron 1,67253382,rs59524104 ,N.D.,,,,,,-,c.100-1095G>A,-,-,intronic,N.A.,,
+intron 1,67253401, rs139329931,0.01,,0.51,,,,-,c.100-1076T>C,-,-,intronic,N.A.,,
+intron 1,67253564,rs7110021 ,0.483,,40.82,,,,-,c.100-913T>C,-,-,intronic,no,,
+intron 1,67253637, rs144079780,0.009,,0.46,,,,-,c.100-840G>T,-,-,intronic,N.A.,,
+intron 1,67253673,rs630172 ,0.499,http://hapmap.ncbi.nlm.nih.gov/cgi-perl/snp_details_phase3?name=rs630172&source=hapmap28_B36&tmpl=snp_details_phase3,47.89,,,,-,c.100-804C>A,-,-,intronic,no,,
+intron 1,67253807, rs114324917,0.028,,1.42,,,,-,c.100-670C>T,-,-,intronic,unlikely,,
+intron 1,67253919,rs76605055 ,N.D.,,,,,,-,c.100-558C>G,-,-,intronic,N.A.,,
+intron 1,67253921,rs75081450 ,0.001,,0.05,,,,-,c.100-556C>G,-,-,intronic,N.A.,,
+intron 1,67253921,rs75081450 ,0.001,,0.05,,,,-,c.100-556C>T,-,-,intronic,N.A.,,
+intron 1,67253927, rs146033798,0.003,,0.14,,,,-,c.100-550G>A,-,-,intronic,N.A.,,
+intron 1,67254028,rs183782643,0.001,,0.05,,,,-,c.100-449G>T,-,-,intronic,N.A.,,
+intron 1,67254350,rs188172321,0.003,,0.14,,,,-,c.100-127G>A,-,-,intronic,N.A.,,
+intron 1,67254405,rs200750110,N.D.,,,,,,-,c.100-72G>A,-,-,intronic,N.A.,,N.A.
+intron 1,67254434,rs377538917,N.D.,,,0.0077,0.0116,0,-,c.100-43G>T,-,-,intronic,N.A.,,N.A.
+intron 1,67254459,rs202156895,0.002,,0.09,0.3772,0.5355,0.0682,-,c.100-18C>T,-,-,intronic,unlikely,,N.A.,"Georgitsi et al., 2007b; Leontiou et al., 2008; Tichomirowa et al., 2011; Oriola et al., 2012","This variant was found in a 35yo male with a macroadenoma tumour requiring surgery and radiotherapy, who presented an absolute resistance to somatostatin analogues and achieved hormonal control while on maximal doses of daily PEG (Oriola et al., 2012), in a young acromegaly patient (Georgitsi et al., 2007b) and in 2 sporadic giants (Leontiou et al., 2008, Tichomirowa et al., 2011). However, it was not predicted to have an effect on splicing when tested in silico (Georgitsi et al., 2007b, Tichomirowa et al., 2011) and was also detected in 1 of 107 Centre d’E?tude du Polymorphism Humain controls (1%) and 1 of 96 Caucasian U.K. controls (1%) (Georgitsi et al., 2007b), and also in 4 control subjects (Leontiou et al., 2008), in agreement with the larger control study of the EVS database",
+intron 1,67254461,rs200754493,0.002,,,,,,-,c.100-16C>T,-,-,intronic,N.A.,,unlikely
+intron 1,67254470,rs371268619,N.D.,,,0.0077,0,0.0227,-,c.100-7C>T,-,-,intronic,N.A.,,N.A.
+intron 1,67254471,rs539027647,,,,,,,-,c.100-6C>A,-,-,splice site,,,,"4th ENEA workshop /// marseille /// 10-12 december 2015
+P11
+Screening for germline GPR101 and AIP mutations in patients with sporadic pituitary adenomas
+Lecoq Anne-Lise | Bouligand Jérôme | Hage Mirella
+| Cazabat Laure | Salenave Sylvie | Linglart Agn?s |
+Young Jacques | Guiochon Mantel Anne |
+Chanson Philippe | Peter Kamenicky",,
+exon 2,67254481,rs376797001,N.D.,,,0.0077,0.0116,0,2,c.104C>T,p.T35M,35,missense,no,no,unlikely,,1/4295 European EVS samples,
+exon 2,67254493,rs139947406,0.002,,0.09,,,,2,c.116G>A,p.R39Q,39,missense,N.A.,N.A.,likely,,"1000 genomes SNP, no frequency data",
+exon 2,67254496, rs142044984,0.001,,,0.0077,0.0116,0,2,c.119C>T,p.T40M,40,missense,N.A.,N.A.,likely,,"EVS not found, Agilent ClinSeq 1/662 European individuals",
+exon 2,67254509,rs11822907 ,0.032,,1.61,2.7329,0.0582,7.9545,3,c.132C>T (p.(=)),,44,synonymous,no,,no,"Cazabat et al., 2007; Rowlands et al., 2011","found only in the African-American ethnic group in Rowlands et al., 2011",
+exon 2,67254510,COSM226687,,,,,,,1,c.133G>A,p.D45N,45,missense,unlikely,no,no,http://www.sanger.ac.uk/perl/genetics/CGP/cosmic?action=mut_summary&id=226687,somatic variation (COSMIC database) found in a malignant melanoma sample (zygosity status unknown),
+exon 2,67254512,rs181969066,N.D.,,0.1,,,,3,c.135C>T (p.(=)),,45,synonymous,unlikely,,unlikely,"Iwata et al., 2007",,
+exon 2,67254517-67254541,rs267606537/EF066504,,,,,,,-,c.140_163delGCACCGTGCTGGACGACAGCCGGG,p.G47_R54del,-,in-frame deletion,yes,,,"Daly et al., 2007",,
+exon 2,67254518,HQ316145.1,,,1,,,,3,c.144C>T (p.(=)),,48,synonymous,no,,no,"Occhi et al., 2010b & Ceccato et al., 2011; Rowlands et al., 2011; Cai et al., 2013; unpublished data from our group (Sp492M1)","wrongly reported as c.153C>T in Ceccato et al., 2011. Rare variant with allelic frequency of 1% (Rowlands et al., 2011). This variant does not affect splicing (minigene study in Occhi et al., 2010b). Detected in controls of 6 different ethnic populations",
+,,,,,,,,,,c.144C>A,,,,,,
+exon 2,67254522,rs1063385 ,N.D.,,,0.0154,0.0233,0,1,c.145G>T,p.V49L,49,missense,N.A.,N.A.,unlikely,,rare allelic variant,
+exon 2,67254522,rs1063385 ,,,,,,,1,c.145G>A,p.V49M,49,missense,unlikely,N.A.,N.A.,"Iwata et al., 2007",have,
+exon 2,67254530,rs201359503,0.001,,0.05,,,,3,c.153C>T (p.(=)),,51,synonymous,unlikely,,no
+exon 2,67254543,rs267606538/GU969040,,,,,,,1,c.166C>T,p.R56C,56,missense,likely,unlikely,likely,"Tichomirowa et al., 2011",,
+exon 2,67254549,rs267606539/GQ847773.1,,,,,,,3,c.174G>C,p.K58N,58,missense,likely,no,likely,"Tichomirowa et al., 2011; Cazabat et al., 2012 & Cuny et at., 2013",,
+exon 2,67254569,rs200426800,0.001,,0.05,,,,3,c.192T>C (p.(=)),,64,synonymous,unlikely,,no,,"Serban case, presented in the same abstract (Baciu 2012, ECE 2012 Florence). Young acromegalic male patient (29 yrs. old), macroadenoma, resistant to both dopamine + somatostatin analogue therapy. 
+Looks like pathogenic based on my results (very degraded protein).",
+exon 2,67254582,rs141223463,0.000,,,0.0077,0,0.0227,1,c.205A>G,p.K69E,69,missense,N.A.,likely,N.A.,,rare SNP in African sample (1 het subject in 2199),
+exon 2,67254585,,,,,,,,1,c.208C>A,p.L70M,70,missense,N.A.,no,N.A.,"Beckers et al., 2013",,
+exon 2,67254594,,,,,,,,1,c.217T>C,p.W73R,73,missense,N.A.,likely,N.A.,"Baciu et al., 2012",,
+exon 2,67254603,rs372657895,N.D.,,,0.0077,0.0116,0,1,c.226A>G,p.I76V,76,missense,unlikely,no,unlikely,,1/4295 European EVS samples,
+exon 2,67254606,rs199531255,0.001,,0.05,,,,1,c.229G>A,p.V77M,77,missense,unlikely,unlikely,N.A.,,"1000 genomes SNP, no frequency data",
+exon 2,67254618,rs267606541/EF643647,,,,,,,1,c.241C>T,p.R81*,81,nonsense,yes,,,"Luccio-Camelo et al., 2004 & Toledo et al., 2008; Soares et al., 2005 & Leontiou et al., 2008; Guaraldi et al., 2012",,
+exon 2,67254622-67254626,rs267606542/FJ514477.1,,,,,,,-,c.245_249delAAGGG,p.E82Gfs*8,82,frameshift,yes,,,"Tichomirowa et al., 2011",wrong nomenclature in the article,
+exon 2,67254626,rs104895072,,,,,,,3,c.249G>T,p.G83Afs*15,83,splice site,yes,,yes,"Igreja et al., 2010",causes alternatively splicing leading to a frameshift and a truncated AIP protein,
+exon 2,67254627,rs267606543/GQ403801.1,,,,,,,1,c.250G>A,p.E84K,84,missense,likely,likely,likely,"Tichomirowa et al., 2011",,
+intron 2,67254679,rs375562070,N.D.,,,0.0077,0,0.0227,-,c.279+23C>T,-,-,intronic,N.A.,,unlikely
+intron 2,67254701,,,,,0.0078,0,0.023,-,c.279+45T>C,-,-,intronic,N.A.,,unlikely,data from EVS only,,
+intron 2,67254861,rs371535524,N.D.,,,,,,-,c.279+205G>A,-,-,intronic,N.A.,,
+intron 2,67254862,rs375719530,N.D.,,,,,,-,c.279+206C>T,-,-,intronic,N.A.,,
+intron 2,67254863,rs187332576,0.005,,0.23,,,,-,c.279+207G>A,-,-,intronic,N.A.,,
+intron 2,67255049, rs112059603,0.072,,3.72,,,,-,c.279+393C>T,-,-,intronic,unlikely,,
+intron 2,67255056,rs10896176 ,0.131,http://hapmap.ncbi.nlm.nih.gov/cgi-perl/snp_details_phase3?name=rs10896176&source=hapmap28_B36&tmpl=snp_details_phase3,7.07,,,,-,c.279+400G>A,-,-,intronic,no,,
+intron 2,67255156,rs1790745 ,0.017,,0.87,,,,-,c.279+500T>C,-,-,intronic,unlikely,,
+intron 2,67255170,rs581525 ,0.059,http://hapmap.ncbi.nlm.nih.gov/cgi-perl/snp_details_phase3?name=rs581525&source=hapmap28_B36&tmpl=snp_details_phase3,3.03,,,,-,c.279+514T>C,-,-,intronic,no,,
+intron 2,67255272, rs142218826,0.003,,0.14,,,,-,c.279+616C>T,-,-,intronic,N.A.,,
+intron 2,67255343,rs75105505 ,0.005,,0.28,,,,-,c.279+687T>C,-,-,intronic,N.A.,,
+intron 2,67255388, rs151153923,0.003,,0.14,,,,-,c.279+732C>T,-,-,intronic,N.A.,,
+intron 2,67255448, rs140077772,0.001,,0.05,,,,-,c.279+792T>A,-,-,intronic,N.A.,,
+intron 2,67255513, rs149912027,0.005,,0.28,,,,-,c.279+857C>T,-,-,intronic,N.A.,,
+intron 2,67255616,rs192187404,0.001,,0.05,,,,-,c.279+960A>G,-,-,intronic,N.A.,,
+intron 2,67255636,rs604540 ,0.173,http://hapmap.ncbi.nlm.nih.gov/cgi-perl/snp_details_phase3?name=rs604540&source=hapmap28_B36&tmpl=snp_details_phase3,9.55,,,,-,c.279+980T>C,-,-,intronic,no,,
+intron 2,67255753, rs114749639,0.004,,0.18,,,,-,c.280-985G>A,-,-,intronic,N.A.,,
+intron 2,67255802, rs147581050,0.007,,0.37,,,,-,c.280-936C>T,-,-,intronic,N.A.,,
+intron 2,67255855,rs11823597 ,0.032,,1.61,,,,-,c.280-883C>T,-,-,intronic,unlikely,,
+intron 2,67255877,rs35787427 ,0.434,,31.8600,,,,-,c.280-861C>T,-,-,intronic,no,,
+intron 2,67255950,rs201726222,0.493,,44.0800,,,,-,c.280-788delG,-,-,intronic,no,,
+intron 2,67255953,rs595490 ,0.486,,41.6,,,,-,c.280-785G>T,-,-,intronic,no,,
+intron 2,67256047,rs602720 ,0.176,,9.7300,,,,-,c.280-691G>A,-,-,intronic,no,,
+intron 2,67256049,rs181893050,0.003,,0.14,,,,-,c.280-689T>G,-,-,intronic,N.A.,,
+intron 2,67256111,rs596431 ,0.173,,9.5500,,,,-,c.280-627C>A,-,-,intronic,no,,
+intron 2,67256191,rs602220 ,0.174,,9.6000,,,,-,c.280-547C>T,-,-,intronic,no,,
+intron 2,67256241,rs596944 ,0.207,,11.7500,,,,-,c.280-497G>C,-,-,intronic,no,,
+intron 2,67256306,rs370857260,N.D.,,,,,,-,c.280-432G>A,-,-,intronic,N.A.,,
+intron 2,67256351,rs35286380,0.029,,1.47,,,,-,c.280-387_280-386insC,-,-,intronic,N.A.,,
+intron 2,67256355,rs71461650 ,0.5,,,,,,-,c.280-386dupC,-,-,intronic,N.A.,,
+intron 2,67256369,rs601363 ,0.173,http://hapmap.ncbi.nlm.nih.gov/cgi-perl/snp_details_phase3?name=rs601363&source=hapmap28_B36&tmpl=snp_details_phase3,9.55,,,,-,c.280-369G>A,-,-,intronic,no,,
+intron 2,67256605, rs146679495,0.004,,0.18,,,,-,c.280-133G>A,-,-,intronic,N.A.,,
+intron 2,67256638, rs139351231,0.009,,0.46,,,,-,c.280-100T>G,-,-,intronic,N.A.,,N.A.
+intron 2,67256653,rs368021930,N.D.,,,,,,-,c.280-85G>T,-,-,intronic,N.A.,,unlikely
+intron 2,67256657,,,,,,,,-,c.280-81G>A,-,-,intronic,N.A.,,likely,"Cazabat et al., 2007",,
+intron 2,67256701,rs370499402,N.D.,,,0.0078,0,0.023,-,c.280-37C>T,-,-,intronic,N.A.,,N.A.
+intron 2,67256737,rs267606544,,,,,,,-,c.280-1G>C,-,-,splice site,likely,,yes,"Georgitsi et al., 2007b",,
+exon 3,67256741,rs374539726,N.D.,,,0.0077,0,0.0227,1,c.283G>A,p.V95M,95,missense,N.A.,no,likely,,rare SNP in African sample (1 het subject in 2199),
+exon 3,67256744-67256745,rs267606545,,,,,,,-,c.286_287delGT,p.V96Pfs*33,96,frameshift,yes,,,"Yamada et al., 1997 & Iwata et al., 2007",wrong nomenclature in the article,
+exon 3,67256749, rs146865791,0.000,,,0.0077,0,0.0227,3,c.291G>A (p.(=)),,97,synonymous,N.A.,,unlikely
+exon 3,67256759, rs147931650,0.001,,0.05,0.0848,0,0.2502,1,c.301G>A,p.V101M,101,missense,N.A.,unlikely,N.A.,,11 het subjects out of 2198 African EVS samples,
+exon 3,67256766,rs267606548,,,,,,,2,c.308A>G,p.K103R,103,missense,likely,no,unlikely,"Stratakis et al., 2010","pathogenicity based on Igreja et al., 2010 (disrupts AIP-PDE4A5 interaction). It was found in a sporadic patient with chilhood onset",
+exon 3,67256774,rs369414668,N.D.,,,0.0077,0.0116,0,1,c.316C>T,p.R106C,106,missense,N.A.,N.A.,likely,"One male with aggressive macroprolactinoma, no family history - Ann McCormack (Australia - Marta e-mail 19/3/14). Also rare SNP 1/4292 European individuals in EVS.",1 subject in 4292 European EVS samples,
+exon 3,67256775,rs373950586,N.D.,,,0.0077,0.0116,0,2,c.317G>A,p.R106H,106,missense,N.A.,N.A.,N.A.,,1 subject in 4293 European EVS samples,
+exon 3,67256782,rs376808382,N.D.,,,0.0077,0.0116,0,3,c.324C>T (p.(=)),,108,synonymous,unlikely,,N.A.
+exon 3,67256783,,,,,,,,,c.325G>A,p.A109T,109,missense,unknown,N.A.,likely,unpublished data from Barlier's group.,"predicted in silico to creat a new cryptic splicing donor site. Male, 15 yrs, Macroprolactinoma",
+exon 3,67256791,,,,,,,,3,c.333delC,p.K112Rfs*44,112,frameshift,yes,,,unpublished data from our group (Sp865 - Donato),,
+exon 3,67256796-67256799,,,,,,,,-,c.338_341dup,p.L115Pfs*16,115,frameshift,yes,,,"Stratakis et al., 2010; unpublished data from our group (Sp270)","wrong nomenclature in the article (p.Pro114fsX). The 2 patients (Sp270 and Sp520) found with this mutation share a common ancestor (microsatellite study, about 5Mb shared region)",
+exon 3,67256808,rs267606549/GQ847774.1,,,,,,,2,c.350delG,p.E117Afs*39,117,frameshift,yes,,,"Tichomirowa et al., 2011; Cazabat et al., 2012 & Cuny et at., 2013; Cuny et at., 2013",,
+exon 3,67256813,rs368933035,N.D.,,,0.0077,0.0116,0,1,c.355C>T,p.R119W,119,missense,N.A.,N.A.,likely,"Cai et al., 2013","In Cai et al., 2013 found in a sporadic GH-secreting patient. In the same article predicted in silico to have an effect on AIP structure: molecular modeling indicated that this variant interferes with the secondary structure of the TPR domain. LOH study not possible to perform",
+exon 3,67256824,,,,,,,,,c.366C>T (p.(=)),,122,synonymous,N.A.,,N.A.,unpublished data from our group (F72M1),,
+exon 3,,,,,,,,,,c.376_377del,p.Q126fs,,frameshift,,,,Sp1024M1,,
+exon 3,67256840, rs140530307,0.002,,,0.0616,0,0.1818,1,c.382C>T,p.R128C,128,missense,N.A.,no,N.A.,"4th ENEA workshop /// marseille /// 10-12 december 2015
+P11
+Screening for germline GPR101 and AIP mutations in patients with sporadic pituitary adenomas
+Lecoq Anne-Lise | Bouligand Jérôme | Hage Mirella
+| Cazabat Laure | Salenave Sylvie | Linglart Agn?s |
+Young Jacques | Guiochon Mantel Anne |
+Chanson Philippe | Peter Kamenicky",8/2200 African EVS samples,
+exon 3,67256841,rs267606550,,,,,,,2,c.383G>A,p.R128H,128,missense,unlikely,no,no,"Jaffrain-Rea et al., 2009; Tichomirowa et al., 2011","both papers - same acro, male 27 yrs at dg, macro, no invasion",
+exon 3,67256851,rs199558504,0.002,,,,,,3,c.393C>T (p.(=)),,131,synonymous,unlikely,,N.A.
+exon 3,67256861, rs150487522,0.000,,,0.0077,0.0116,0,1,c.403C>T,p.H135Y,135,missense,N.A.,no,N.A.,,1/4293 European EVS samples,
+exon 3,67256862,rs267606551/EF553637,,,,,,,2,c.404delA,p.H135Lfs*21,135,frameshift,yes,,,"Cazabat et al., 2007",,
+exon 3,67256873, rs138312605,0.000,,,0.0077,0,0.0227,1,c.415G>T,p.D139Y,139,missense,N.A.,N.A.,likely,,1/2200 African EVS samples,
+exon 3,67256875, rs149570102,0.000,,,0.0077,0,0.0227,3,c.417C>T (p.(=)),,139,synonymous,N.A.,,N.A.
+exon 3,67256882,rs267606552/EF066506,,,,,,,1,c.424C>T,p.Q142*,142,nonsense,yes,,,"Daly et al., 2007",,
+exon 3,67256885,,,,,,,,1,c.427C>T,p.Q143*,143,nonsense,yes,,,unpublished data from our group (Sp200),,
+exon 3,67256887,rs267606553,,,,,,,3,c.429G>A (p.(=)),,143,synonymous,unlikely,,unlikely,"Cazabat et al., 2007",,
+exon 3,67256915,rs376193405,N.D.,,,0.0077,0.0116,0,1,c.457G>A,p.E153K,153,missense,N.A.,N.A.,unlikely,,1/4292 European EVS samples,
+intron 3,67256927,rs267606554,,,,,,,-,c.468+1G>A,-,-,splice site,likely,,yes,"Occhi et al., 2010b",,
+intron 3,67256930,,,,,0.056,0.0286,0.1074,-,c.468+4A>G,-,-,intronic,N.A.,,likely,data from EVS only,,
+intron 3,67256934,rs368923226,N.D.,,,0.0077,0.0117,0,-,c.468+8G>A,-,-,intronic,N.A.,,no
+intron 3,67256935,rs373159347,N.D.,,,0.0155,0.0234,0,-,c.468+9C>T,-,-,intronic,N.A.,,unlikely
+intron 3,67256939,rs375823655,N.D.,,,0.0232,0.0234,0.0229,-,c.468+13C>T,-,-,intronic,N.A.,,unlikely
+intron 3,67256940,rs369766409,N.D.,,,0.0078,0.0118,0,-,c.468+14G>A,-,-,intronic,N.A.,,unlikely
+intron 3,67256941,,,,,,,,-,c.468+15C>T,-,-,intronic,no,,unlikely,"Yamada et al., 1997 & Georgitsi et al., 2007a; Fajardo-Montanana et al. 2009 & Tichomirowa et al., 2011",,
+intron 3,67256942,rs267607273,,,,,,,-,c.468+16G>T,-,-,intronic,unlikely,,unlikely,"Tichomirowa et al., 2011",,
+intron 3,67256946,rs200995630,0.001,,0.05,,,,-,c.468+20G>A,-,-,intronic,no,,N.A.
+intron 3,67257037,rs4084113 ,0.425,http://hapmap.ncbi.nlm.nih.gov/cgi-perl/snp_details_phase3?name=rs4084113&source=hapmap28_B36&tmpl=snp_details_phase3,30.67,,,,-,c.468+111C>T,-,-,intronic,no,,,"Cazabat et al., 2007; Cai et., 2013","In Cai et al., 2013 found in 1 FIPA family, 2 sporadic GH-secreting, 8 PRL-secreting, 9 ACTH-secreting, and 10 NFPA patients, as well as in 9 Chinese controls",
+intron 3,67257062,rs79270719 ,0.008,,0.41,,,,-,c.468+136A>G,-,-,intronic,N.A.,,,"Ju et al., 2009",,
+intron 3,67257144,rs199777404,N.D.,,,,,,-,c.468+218C>T,-,-,intronic,N.A.,,
+intron 3,67257169,rs149018552,0.001,,0.05,,,,-,c.468+243C>T,-,-,intronic,N.A.,,
+intron 3,67257170, rs115215716,0.035,,1.79,,,,-,c.468+244G>A,-,-,intronic,unlikely,,
+intron 3,67257201,rs186922971,0.001,,0.05,,,,-,c.468+275G>A,-,-,intronic,N.A.,,
+intron 3,67257251,rs190123945,0.001,,0.05,,,,-,c.469-258C>T,-,-,intronic,N.A.,,
+intron 3,67257273,rs611697 ,0.2,,11.29,,,,-,c.469-236G>T,-,-,intronic,no,,
+intron 3,67257292,rs182438052,0.006,,0.32,,,,-,c.469-217C>A,-,-,intronic,N.A.,,
+intron 3,67257294,rs75842186 ,0.002,,0.09,,,,-,c.469-215G>T,-,-,intronic,N.A.,,
+intron 3,67257357, rs142119195,N.D.,,,,,,-,c.469-152C>G,-,-,intronic,N.A.,,
+intron 3,67257358, rs140960814,N.D.,,,,,,-,c.469-151G>T,-,-,intronic,N.A.,,
+intron 3,67257359,rs144412971,N.D.,,,,,,-,c.469-150A>T,-,-,intronic,N.A.,,
+intron 3,67257359-67257360,rs5792416 ,0.5,,,,,,-,c.469-150_469-149insTGTT,-,-,intronic,N.A.,,
+intron 3,67257360,rs33941803 ,N.D.,,,,,,-,c.469-149_469-148insTGTT,-,-,intronic,N.A.,,
+intron 3,67257362-67257363,rs33961879 ,N.D.,,,,,,-,c.469-143_469-142insTTTG,-,-,intronic,N.A.,,
+intron 3,67257365,rs10625132 ,N.D.,,,,,,-,c.469-144_469-143insTTTG,-,-,intronic,N.A.,,
+intron 3,67257366,rs76392311 ,N.D.,,,,,,-,c.469-143A>T,-,-,intronic,N.A.,,
+intron 3,67257398, rs143812313,0.003,,0.14,,,,-,c.469-111G>A,-,-,intronic,N.A.,,
+intron 3,67257413,rs372075021,N.D.,,,,,,-,c.469-96G>A,-,-,intronic,N.A.,,no
+intron 3,67257454,rs374519806,N.D.,,,,,,-,c.469-55C>T,-,-,intronic,N.A.,,unlikely
+intron 3,67257458,rs368797185,N.D.,,,0.0233,0,0.0689,-,c.469-51C>T,-,-,intronic,N.A.,,no
+intron 3,67257474,rs377621889,N.D.,,,0.0077,0,0.0229,-,c.469-35C>T,-,-,intronic,N.A.,,no
+intron 3,67257475,rs371043120,N.D.,,,0.0155,0,0.0458,-,c.469-34C>T,-,-,intronic,N.A.,,no
+intron 3,67257492,,N.D.,,,,,,-,c.469-17T>C,-,-,intronic,N.A.,,,"Our lab, unpublished - Belfast 54, sporadic","Belfast 54, Sp Acro, M, 38 y onset, Macro",
+intron 4,?,?,?,,,,,,,c.469-13C>T,,,,,,,I work with Prof Gimenez-Roqueplo and I have identified the intronic variant c.469-13C>T (intron 3) in the AIP gene in a 16 yrs old patient with a prolactinoma. nelly.burnichon@egp.aphp.fr,,
+intron 3,67257507,rs267606556/EF553638,,,,,,,-,c.469-2A>G,p.E158_Q184del,-,splice site,likely,,yes,"Cazabat et al., 2007; Cazabat et al., 2012; Martucci et al., 2012b","this change activates a cryptic acceptor splice site (AG) in the middle of exon 4. The resulting RNA is predicted to yield a shorter protein missing 27 amino acids (amino acids 159-185) including part of the first ?-helix of the first TPR motif (Martucci et al., 2012b)",
+intron 3,67257508,rs267606555/AM236343,,,,,,,-,c.469-1G>A,-,-,splice site,likely,,yes,"Vierimaa et al., 2006",,
+exon 4,67257530,rs104895073,,,,,,,1,c.490C>T,p.Q164*,164,nonsense,yes,,,"Igreja et al., 2010","disrupts AIP-PDE4A5 interaction (Igreja et al., 2010)",
+exon 4,67257531,,,,,,,,,c.491A>G,p.Q164R,164,missense,likely,,,unpublished - Serban,"Sp. ACRO, F, 34 yrs at dg, Macro, resistant to SSA.",
+exon 4,67257532,rs148095197,0.001,,0.05,,,,3,c.492G>A (p.(=)),,164,synonymous,N.A.,,N.A.
+exon 4,67257540,rs267606557,,,,,,,-,c.500delC,p.P167Hfs*4,167,frameshift,yes,,,"Khoo et al., 2009",wrong nomenclature in the article,
+exon 4,67257546,,,,,,,,3,c.504G>A,p.W168X,168,missense,yes,,
+exon 4,67257549,,,,,,,,2,c.509T>C,p.M170T,170,missense,likely,N.A.,likely,"Cazabat et al., 2012",not found in controls. Found in a 32 years old giant (puberty onset) male patient with a macroadenoma,
+exon 4,67257556,rs2276020,0.127,http://hapmap.ncbi.nlm.nih.gov/cgi-perl/snp_details_phase3?name=rs2276020&source=hapmap28_B36&tmpl=snp_details_phase3,6.84,2.5424,1.4212,4.7316,3,c.516C>T (p.(=)),p.D172D,172,synonymous,no,,unlikely,"Iwata et al., 2007; Barlier et al., 2007; Cazabat et al., 2007; Buchbinder et al., 2008; Igreja et al., 2009; Rowlands et al., 2011; Zatelli et al., 2012; Cai et al 2013","this variant was found in all the ethnic groups studied, except the Caucasian, in Rowlands et al., 2011. This variant is prominent in the Chinese, Japanese and Southeast Asian subpopulations (Rowlands et al., 2011). In Cai et al., 2013 found in 3 FIPA families, 19 sporadic GH-secreting, 9 PRL-secreting, 11 ACTH-secreting, and 18 NFPA patients, as well as in 40 Chinese controls",
+exon 4,67257556,rs2276020 ,0.127,,6.84,,,,3,c.516C>G,p.D172E,172,missense,no,no,no
+exon 4,67257557, rs138902236,0.001,,0.05,0.0231,0,0.0682,1,c.517G>A,p.E173K,173,missense,N.A.,no,unlikely,,3/2200 African EVS samples,
+exon 4,67257561-67257565,rs267606558/EF066503,,,,,,,-,c.521_525delAGAAG,p.E174Gfs*47,174,frameshift,yes,,,"Daly et al., 2007 & Naves et al., 2007",,
+exon 4,67257583,rs267606559,,,,,,,2,c.543delT,p.I182Sfs*14,181,frameshift,yes,,,"Georgitsi et al., 2007b; Garay et al., 2011","in Georgitsi et al., 2007b described as c.542delT but in fact is the same variant",
+exon 4,67257590,rs267606560/GQ403802.1,,,,,,,1,c.550C>T,p.Q184*,184,nonsense,yes,,,"Tichomirowa et al., 2011",,
+exon 4,67257601,rs142037029,0.000,,,0.0154,0,0.0455,3,c.561C>T (p.(=)),,187,synonymous,N.A.,,no
+exon 4,67257602,,,,,,,,1,c.562C>T,p.R188W,188,missense,likely,,,unpublished data from our group (Sp773 - Donato),,
+exon 4,67257603,,,,,,,,2,c.563G>A,p.R188Q,188,missense,N.A.,no,no,"Cazabat et al., 2012",not present in controls. Described in a 24 years old female patient with a microprolactinoma,
+exon 4,67257610,,,,,,,,3,c.570C>G,p.Y190*,190,nonsense,yes,,,"unpublished data from our group (F186M1, F186M2)",,
+exon 4,67257611,rs189861025,0.001,,0.05,,,,1,c.571C>T,p.R191C,191,missense,N.A.,N.A.,likely,,"1000 genomes SNP, no frequency data",
+exon 4,67257612, rs141826817,0.001,,0.05,,,,2,c.572G>A,p.R191H,191,missense,unlikely,no,unlikely,,"pathogenicty based on finding in controls (dbSNP) and on in silico predictions. However, this amino acid is predicted to be involved in chaperone binding via water molecules (Prodromou's personal communication)",
+exon 4,67257613,,,,,,,,3,c.573C>T (p.(=)),,191,synonymous,N.A.,,N.A.,unpublished data from our group (Sp255),,
+exon 4,67257624,rs267606561,,,,,,,2,c.584T>C,p.V195A,195,missense,likely,no,unlikely,"Jaffrain-Rea et al., 2009 & Naves et al., 2010 & Tichomirowa et al., 2011","variant found in a 12yo boy with a macroprolactinoma resistant to dopamine agonists. Five asymptomatic mutation carriers were identified in the family. The variant resulted likely pathogenic with the in silico predictions performed in Tichomirowa et al., 2011. The variant was wrongly reported as A195V in Naves et al., 2010. The variant was not found in 177 controls and in 298 sporadic acromegaly patients (Naves et al., 2010). The V residue is one of the 10 amino acids involved in the binding surface of the TPR region. This amino acid is involved in packing. However, this variant is not expected to have a drastic effect on the structure (Prodomou's personal communication)",
+exon 4,67257631,rs202006716/GQ403806.1,,,,0.0154,0.0233,0,3,c.591G>A (p.(=)),p.E197=,197,synonymous,N.A.,,no,"Tichomirowa et al., 2011","predicted in silico to affect splicing in Tichomirowa et al., 2011",
+exon 4,67257633,COSM215485,,,,,,,2,c.593C>A,p.A198D,198,missense,N.A.,N.A.,likely,http://www.sanger.ac.uk/perl/genetics/CGP/cosmic?action=mut_summary&id=215485,somatic variation (COSMIC database) found in a primitive neuroectodermal tumour-medulloblastoma sample (in homozygosis),
+exon 4,67257641,rs267606563/EF553639,,,,,,,1,c.601A>T,p.K201*,201,nonsense,yes,,,"Cazabat et al., 2007",,
+exon 4,67257645,N.A.,N.D.,N.A.,N.D.,N.D.,N.D.,N.D.,2,c.605A>G,p.(Tyr202Cys),202,missense,likely,N.D.,N.D.,"unpublished data from our group - Sp101: male giant, 10 yrs at onset, macro with diplopia. It occurs on the same allele as c.100-18, as a de novo variant (Francesco cloning results)","limited data: suggestive phenotype - single pt, not a polymorphism (EXAC / dbSNP)",
+exon 4,67257649,rs146317385,0.000,,,0.0077,0.0116,0,3,c.609C>T (p.(=)),,203,synonymous,N.A.,,no
+exon 4,67257652,rs182746617,0.001,,0.05,,,,3,c.612T>C (p.(=)),,204,synonymous,N.A.,,no
+exon 4,67257670,,,,,,,,3,c.630delG,p.N211Tfs*4,211,frameshift,yes,,,"Cuny et al., 2013",,
+exon 4,67257674,,,,1,,,,1,c.634C>T (p.(=)),,212,synonymous,no,,unlikely,"Rowlands et al., 2011","pathogenicity based on in silico analysis and presence in controls reported in Rowlands et al., 2011",
+exon 4,67257680,rs3210041 ,N.D.,,,,,,1,c.640A>C,p.M214L,214,missense,N.A.,no,N.A.,,"unique SNP submission, based on EST mining",
+intron 4,67257686,,,,,,,,-,c.645+1G>C,p.?,-,splicing,,,,Sp967,,
+intron 4,67257687,,,,,,,,,c.645+2T>C,p.?,-,splicing,,,,Mutation in M059J cell line - male glioblastoma. Zygosity not described. https://cansar.icr.ac.uk/cansar/cell-lines/M059J/mutations/ ,,
+intron 4,67257697,rs373778965,N.D.,,,0.0077,0.0116,0,-,c.645+12A>G,-,-,intronic,N.A.,,no
+intron 4,67257722,,,,,,,,-,c.645+37G>A,-,-,intronic,N.A.,,unlikely,"Cazabat et al., 2007",,
+intron 4,67257723,rs376846946,N.D.,,,0.0077,0,0.0227,-,c.645+38G>C,-,-,intronic,N.A.,,likely
+intron 4,67257726,rs370717327,N.D.,,,0.0077,0.0116,0,-,c.645+41G>C,-,-,intronic,N.A.,,unlikely
+intron 4,67257726,,,,,,,,-,c.645+41dup,-,-,intronic,N.A.,,unlikely,"Cai et al., 2013","In Cai et al., 2013 found in a NFPA patient",
+intron 4,67257744,rs199980884,0.001,,0.05,0.0077,0.0116,0,-,c.646-43C>G,-,-,intronic,N.A.,,unlikely
+intron 4,67257761,rs367957036,N.D.,,,0.0077,0.0116,0,-,c.646-26C>G,-,-,intronic,N.A.,,unlikely
+intron 4,67257764,rs370364419,N.D.,,,0.0077,0.0116,0,-,c.646-23G>A,-,-,intronic,N.A.,,no
+exon 5,67257787,rs267606565,,,,,,,1,c.646G>T,p.E216*,216,nonsense,yes,,
+exon 5,67257790,rs267606566/EF066507,,,,,,,1,c.649C>T,p.Q217*,217,nonsense,yes,,,"Daly et al., 2007; Cai et al., 2013","In Cai et al., 2013 found in all 3 affected members (GH-secreting adenoma) of a FIPA family",
+exon 5,67257803-67257804,rs104895075,,,,,,,-,c.662dupC,p.E222*,222,nonsense,yes,,,"Igreja et al., 2010",,
+exon 5,67257823,rs641081 ,0.205,http://hapmap.ncbi.nlm.nih.gov/cgi-perl/snp_details_phase3?name=rs641081&source=hapmap28_B36&tmpl=snp_details_phase3,11.62,16.5743,0.3492,48.25,1,c.682C>A,p.Q228K,228,missense,no,no,no,"Barlier et al., 2007; Cazabat et al., 2007; Rowlands et al., 2011; Zatelli et al., 2012","this variant has a high genetic frequency in African-Americans (Rowlands et al., 2011). The side chain is free in solvent. It is likely to have no effect on the structure (Prodromou's presonal communication). Also found in the pcDNA3-Myc-hAIP plasmid we have.",
+exon 5,67257826,,,,,,,,1,c.685C>T,p.Q229*,229,nonsense,yes,,,"Urbani et al., 2014, poster 4I - Incontri Italiani Ipotalamo Ipofisari, Milano, 6-8 Feb 2014 and paper - JEI 2014","FIPA: proband F giant, 18y, invasive macro, 2 non-affected carriers, 4 clinically affected, 2 refused testing (likely acro), 2 dead giants",
+exon 5,67257828,,,,,,,,3,c.687G>A (p.(=)),,229,synonymous,unlikely,,unlikely,"Cai et al., 2013","In Cai et al., 2013 found in a sporadic GH-secreting patient. In the same article no LOH was found. Pathogenicity based on this result and the in silico analysis performed in the same study",
+exon 5,67257834, rs141715817,0.002,,,0.0616,0,0.1818,3,c.693G>A (p.(=)),,231,synonymous,N.A.,,unlikely
+exon 5,67257836, rs150594019,0.000,,,0.0077,0,0.0227,2,c.695C>T,p.P232L,232,missense,N.A.,N.A.,likely,,1/2200 African EVS samples,
+exon 5,67257837,,,,,,,,3,c.696G>C (p.(=)),,232,synonymous,N.A.,,unlikely,"Georgitsi et al., 2007b",,
+exon 5,67257854,rs267606569/EF643648,,,,,,,2,c.713G>A,p.C238Y,238,missense,yes,N.A.,likely,"Gadelha et al., 1999 & Leontiou et al., 2008","Both the cell proliferation (Leontiou et al., 2008) and the PDE4A5 binding assays (Igreja et al., 2010) show that this mutant loses its activity in these two different types of functional assays. This amino acid is predicetd to be involved in packing. The mutation causes severe steric clushes by disrupting the packing of the hydrophobic core (Morgan et al., 2012)",
+exon 5,67257855,rs267606570,,,,,,,3,c.714C>T (p.(=)),,238,synonymous,unlikely,,unlikely,"Georgitsi et al., 2007a",,
+exon 5,67257856,rs267606571/EF066508,,,,,,,1,c.715C>T,p.Q239*,239,nonsense,yes,,,"Daly et al., 2007",,
+exon 5,67257859,,,,,,,,1,c.718T>C,p.C240R,240,missense,likely,N.A.,likely,"Nozieres et al., 2011","2 pediatric somatotropinomas, large, invasive. Not seen as SNP. Conserved residue located within helix A of the first TPR domain. The amino acid is involved in packing of the hydrophobic core. The arginine disrupts it (Morgan et al., 2012)",
+exon 5,67257861,,,,,,,,3,c.720C>T (p.(=)),,240,synonymous,N.A.,,likely,"Cazabat et al., 2007",,
+exon 5,67257862,rs267606573/EF066505,,,,,,,1,c.721A>G,p.K241E,241,missense,likely,N.A.,unlikely,"Daly et al., 2007","based on Igreja et al., 2010 (disrupts AIP-PDE4A5 interaction and suggested to be required for the packing of adjacent TPR a-helices). However, this variant does not affect the AIP-RET interaction (Vargiolu et al., 2009). This variation is predicted to disrupt hydrogen bonding to Glu246 (Morgan et al., 2012)",
+exon 5,67257862,rs267606573,,,,,,,1,c.721A>T,p.K241*,241,nonsense,yes,,,"Stratakis et al., 2010",de novo mutation,
+exon 5,67257874, rs150645662,0.001,,0.05,0.0077,0,0.0227,1,c.733G>A,p.E245K,245,missense,unlikely,no,no,"Cai et al., 2013","In Cai et al., 2013 found in a sporadic PRL-secreting patient. In the same article LOH was not found. Pathogenicity based on this result and in silico analysis",
+exon 5,67257877-67257880,,,,,,,,-,c.736_738delGAG,p.E246del,246,in-frame deletion,likely,,,"Beckers et al., 2013 and Cuny et al., 2013","wrong nomenclature at the DNA level in the Cuny et al., 2013 (c.735-737del). Pathogenicity based on Cuny et al., 2013. Male, 20 yrs, invasive macroNFPA",
+exon 5,67257879, rs149677884,0.000,,,0.0077,0,0.0227,3,c.738G>A (p.(=)),,246,synonymous,N.A.,,no
+exon 5,67257883-67257885,rs267606574,,,,,,,-,c.742_744delTAC,p.Y248del,248,in-frame deletion,yes,,,"Georgitsi et al., 2008",,
+exon 5,67257893,,,,,,,,2,c.752delT,p.L251Rfs*52,251,frameshift,yes,,,"Cazabat et al., 2012",,
+exon 5,67257894, rs147351993,0.001,,0.05,0.0231,0.0349,0,3,c.753G>A (p.(=)),p.L251=,251,synonymous,N.A.,,no,"4th ENEA workshop /// marseille /// 10-12 december 2015
+P11
+Screening for germline GPR101 and AIP mutations in patients with sporadic pituitary adenomas
+Lecoq Anne-Lise | Bouligand Jérôme | Hage Mirella
+| Cazabat Laure | Salenave Sylvie | Linglart Agn?s |
+Young Jacques | Guiochon Mantel Anne |
+Chanson Philippe | Peter Kamenicky",,
+exon5,67257901,,,,,,,,1,c.760T>C,p.C254R,254,missense,likely,,,unpublished data from our group (Sp777 - Donato),"17 yr. old Indian sp giant with giant somatotropinoma, resistant to pasireotide",
+exon 5,67257903,,,,,,,,3,c.762C>G,p.C254W,254,missense,likely,,,unpublished data from our group (F291M1),"Indian FIPA - 2 brothers with ACRO, 31 yrs at onset, macroad and 21 yrs at onset. This affects aa. 24 of TPR 2, on helix B, interacting with C238 on helix A",
+exon 5,67257910,rs267606575,,,,,,,1,c.769A>G,p.I257V,257,missense,likely,unlikely,unlikely,"Daly AF, et al. J Clin Endocrinol Metab. 2010;95:E373-83. ","I257V affects a conserved small residue in most vertebrates in the B helix of the second TPR domain at position 27, which is thought to be important in the packaging of the adjacent helices (Das et al., 1998), in this case, A and B helices of TPR2 and A helix of TPR3 (Igreja et al., 2010). It was found in a sporadic patient with a TSHoma. A reduction in PDE4A5 binding was observed, but this was less than 3-fold difference from WT. LOH data are not available. Shorter half-life than WT (Martucci et al., 2012). This variant is predicted to disrupt packing of hydrophobic core (Morgan et al., 2012)",
+exon 5,67257913,,,,,,,,1,c.772C>T,p.L258F,258,missense,,,,"4th ENEA workshop /// marseille /// 10-12 december 2015
+P11
+Screening for germline GPR101 and AIP mutations in patients with sporadic pituitary adenomas
+Lecoq Anne-Lise | Bouligand Jérôme | Hage Mirella
+| Cazabat Laure | Salenave Sylvie | Linglart Agn?s |
+Young Jacques | Guiochon Mantel Anne |
+Chanson Philippe | Peter Kamenicky",,
+exon 5,67257915,rs200160035,0.002,,,,,,3,c.774C>T (p.(=)),,258,synonymous,unlikely,,unlikely
+exon 5,67257924,rs267606576,,,,,,,3,c.783C>T (p.(=)),,261,synonymous,unlikely,,unlikely,"Cazabat et al., 2007",,
+exon 5,67257924,GQ403803.1,,,,,,,3,c.783C>G,p.Y261*,261,nonsense,yes,,,"Cazabat et al., 2012 & Cuny et al., 2013; Fukuoka et al., 2012; Nishizawa et al. 2013. and unpublished data from our group (Sp150)","this variant is predicted to affect ligand binding (Morgan et al., 2012)",
+exon 5,67257925,,,,,,,,1,c.784G>A,p.D262N,262,missense,likely,no,unlikely,"Cai et al., 2013","In Cai et al., 2013 LOH was found. Pathogenicity based on this result and in silico analysis. The side chain is in the solvent. No apparent effect on structure (Prodromou's personal communication)",
+intron 5,67257937,,,,,,,,-,c.787+9C>T,-,-,intronic,N.A.,,N.A.,unpublished data from our group (Sp182),,
+intron 5,67257952,rs373727233,N.D.,,,0.0077,0,0.0227,-,c.787+24C>T,-,-,intronic,likely,,no,"Cazabat et al., 2007; Oriola et al., 2012","pathogenicity based on in silico analysis reported in Oriola et al., 2012",
+intron 5,67257954,rs368265892,N.D.,,,0.0077,0.0116,0,-,c.787+26G>C,-,-,intronic,N.A.,,unlikely
+intron 5,67257974-67257975,,,,,0.024,0,0.0705,-,c.787+46_787+47del,-,-,intronic,N.A.,,unlikely,data from EVS only,,
+intron 5,67258216,rs376695792,N.D.,,,0.088,0.097,0.0705,-,c.788-43del,-,-,intronic,N.A.,,no,data from EVS only,,
+intron 5,67258238,rs138846272,0.001,,0.05,0.0154,0.0233,0,-,c.788-21G>A,-,-,intronic,N.A.,,no
+intron 5,67258244,,,,,0.104,0.0121,0.2814,-,c.788-20_788-14dup,-,-,intronic,N.A.,,no,data from EVS only,,
+intron 5,67258247,rs376713535,N.D.,,,0.0308,0.0466,0,-,c.788-12C>A,-,-,intronic,N.A.,,N.A.
+exon 6,67258274,rs267606577/GQ412196.1,,,,,,,2,c.803A>G,p.Y268C,268,missense,likely,unlikely,likely,"Tichomirowa et al., 2011","1 male prolactinoma (85mm diam), age 28 yrs, and two unaffected carriers (Tichomirowa et al., 2011). This variant is predicted to disrupt packing of hydrophobic ore (Morgan et al., 2012)",
+exon 6,67258275,rs121908356,,,,,,,3,c.804C>A,p.Y268*,268,nonsense,yes,,,"Jorge et al., 2001 & Toledo et al., 2007; unpublished data from our group (Sp350M)",,
+exon 6,67258276-67258296,rs267606578/EF643650,,,,,,,-,c.805_825dup,p.F269_H275dup,-,in-frame insertion,yes,,,"Prescott et al., 1982 & Soares et al., 2005 & Leontiou et al., 2008; Cazabat et al., 2012",wrong nomenclature in the Leontiou article (c.794_823dup),
+exon 6,67258278,rs139407567/EF643649,0.002,,,0.0924,0.1165,0.0455,3,c.807C>T (p.(=)),p.F269F,269,synonymous,yes,,unlikely,"McCarthy et al., 1990 & Leontiou et al., 2008 & Igreja et al., 2010; Cazabat et al., 2007; Georgitsi et al., 2008a; Tichomirowa et al., 2011; Oriola et al., 2012",decreased AIP mRNA expression,
+exon 6,67258282,rs267606579/EF066502,,,,,,,1,c.811C>T,p.R271W,271,missense,yes,N.A.,likely,"Daly et al., 2007; Jennings et al., 2009; Igreja et al., 2010; Tichomirowa et al., 2011","pathogenicity based on in vitro data reported in Igreja et al., 2010. The R271W is the second most common mutational hotspot in AIP. It has been identified in 3 independent families (Daly et al., 2007; Jennings et al., 2009) as well as in a sporadic giant (Igreja et al., 2010) and in a young sporadic macroadenoma patient (Tichomirowa et al., 2011). It disrupts a conserved amino acid in the third TPR; it corresponds to an arginine in several other TPR proteins at the equivalent location such as in PP5A, AIP-L1, FKBP51, and FKBP52 proteins. R271W completely disrupts the AIP–PDE binding. However, it does not affect the AIP-RET interaction (Vargiolu et al., 2009). The arginine is predicetd to be involved in packing by way of numerous poler interactions, the tryptofan at this position is likely to disrupt the hydrogen bonding to Asp287 and Ser255 (Morgan et al., 2012)",
+exon 6,67258286,,,,,,,,,c.815G>A,p.G272D,272,missense,likely,N.A.,likely,unpublished data from our group (patient Belfast54); 2015 Karaca Z Pituitary Prevalance of AIP mutations in a series of Turkish acromegalic patients,"Belfast54): Acro, M, 41 yrs, Macro. Disrupts interaction with hsp90 and AhR (Meyer et al., 2000). It is predicted to disrupt packing (Prodromou's personal communication)",
+exon 6,67258287,,,,,,,,-,c.816delC,p.K273Rfs*30,273,frameshift,yes,,,unpublished data from our group (Sp488),,
+exon 6,67258293,rs145142121,0.000,,,0.0154,0.0233,0,3,c.822C>A (p.(=)),,274,synonymous,N.A.,,unlikely
+exon 6,67258295-67258296,rs267606580,,,,,,,-,c.824dupA,p.H275Qfs*13,275,frameshift,yes,,,"Georgitsi et al., 2007b",wrong nomenclature in the article,
+exon 6,67258296-67258316,,,,,,,,-,c.825_845delCGCGGCCGTGTGGAATGCCCA,p.H275_A281del,-,in-frame deletion,yes,,,"Belar et al., 2012",wrongly reported as a frameshift mutation in the article and thus with a wrong nomenclature,
+exon 6,67258298,rs61741147 ,0.025,,0.5,,,,2,c.827C>T,p.A276V,276,missense,unlikely,unlikely,unlikely,"Rowlands et al., 2011","based mainly on the finding in controls (Rowlands et al., 2011), but also on in silico predictions. It is involved in packing. Some steric clush with valine. Difficult to draw a definitive conclusion on the structure (Prodromou's personal communication)",
+exon 6,67258300,rs267606581,,,,,,,1,c.829G>C,p.A277P,277,missense,yes,N.A.,N.A.,"Jaffrain-Rea et al., 2009 & Tichomirowa et al., 2011","LOH seen by cDNA sequencing (Jaffrain-Rea et al., 2009). 12 yr old somatotropinoma male, 27 mm invasive tumor, Ki-67 15% (Tichomirowa 2011). This amino acid is present in a helix. The proline is predicted to disrupt the helix and packing against Tyr247 (Morgan et al., 2012)
+",
+exon 6,67258302,,,,,,,,3,c.831C>T (p.(=)),,277,synonymous,N.A.,,unlikely,unpublished data from our group (Neil Bott),,
+exon 6,67258315,,,,,,,,2,c.844C>T,p.Q282*,282,nonsense,yes,,,2014 Schofl C JCEM Frequency of AIP gene mutations in young patients with acromegaly: a registry-based study,,
+exon 6,67258318,COSM690344,,,,,,,2,c.847G>C,p.E283Q,283,missense,no,no,unlikely,http://cancer.sanger.ac.uk/cosmic/mutation/overview?id=690344,somatic variation. Found in a lung carcinoma (zygosity status unknown),
+exon 6,67258324,,,,,,,,1,c.853C>T,p.Q285*,285,nonsense,yes,,,"Beckers et al., 2013",,
+exon 6,67258325-67258328,rs267606582/EF066509,,,,,,,-,c.854_857delAGGC,p.Q285Lfs*17,285,frameshift,yes,,,"Daly et al., 2007",,
+exon 6,67258339,,,,,,,,1,c.868A>T,p.K290*,290,nonsense,yes,,,"unpublished data from our group (Sp396 - Mexican young acro F 21 yrs at dg, no other details)",,
+exon 6,67258342,,,,,,,,1,c.871G>A,p.V291M,291,missense,likely,unlikely,N.A.,"Occhi et al., 2010b","Acro pt, diagnosed at 33 yr (Occhi et al). Conserved residue, important for packing and stability of ?-helix, not found in 300 healthy controls (Occhi et al., 2010b), disruptive effect in PDE4A5 binding assay, predicted to be deleterious in silico with PolyPhen, but no LOH (Occhi et al., 2010b and unpublished data). Shorter half-life than WT (Martucci et al., 2012). It is predicted to disrupt packing of hydrophobic core (forms base of hydrophobic pocket interacting with bound peptide) (Morgan et al., 2012). ",
+exon 6,67258343,,,,,,,,2,c.872T>A,p.V291E,291,missense,likely,likely,likely,"Cazabat et al., 2012"," Pediatric male GH+PRL macroadenoma, symptoms from 14 yrs, dg. at 21 with gigantism. Predicted to disrupt packing of hydrophobic core (forms base of hydrophobic pocket interacting with bound peptide) (Morgan et al., 2012).",
+exon 6,67258343-67258348,,,,,,,,-,c.872_877delTGCTGG,p.V291_L292del,-,in-frame deletion,likely,,,unpublished data from our group (Sp582),,
+exon 6,67258349,,,,,,,,2,c.878A>G,p.E293G,293,missense,unlikely,unlikely,unlikely,"Vargiolu et al., 2009","does not affect the AIP-RET interaction (Vargiolu et al., 2009). Pathogenicity based on in vitro and in silico analyses. The side chain is in the solvent. No apparent affect on structure (Prodromou's personal communication)",
+exon 6,67258349,,,,,,,,2,c.878A>T,p.E293V,293,missense,unlikely,,,unpublished Serban,"Sp Acro, F, 51 yrs, Macro, partial SSA resistance; also heterozygous for R314W",
+exon 6,67258349-67258362,"rs267606583, rs267606585",,,,,,,-,c.[878_87c.878_879delinsGT; 884_895delCTGGACCCAGCC],p.[E293G; D295_L298del],-,in-frame deletion,yes,,,"Georgitsi et al., 2007b",wrong nomenclature in the article,
+exon 6,67258352,,,,,,,,2,c.881T>C,p.L294P,294,missense,likely,N.A.,likely,"Cuny et al., 2013","pathogenicity based on suggested pathogenicty in Cuny et al., 2013, F, 10 yrs, Gigantism, GH macro, invasive",
+exon 6,67258360,rs373922286,N.D.,,,0.0077,0,0.0228,1,c.889G>A,p.A297T,297,missense,N.A.,no,N.A.,,1/2197 African EVS samples,
+exon 6,67258362,rs35665586 ,0.005,,0.23,0.5471,0.0116,1.5938,3,c.891C>A (p.(=)),,297,synonymous,no,,unlikely,"Cazabat et al., 2007; Rowlands et al., 2011",low allelic frequency SNP,
+exon 6,67258366,,,,,,,,,c.895dup,p.Ala299Glyfs*72,299,frameshift,yes,,,unpublished Serban,"Sp Gigantism, 16 y at dg, Macro",
+exon 6,67258367,rs148986773/EF203235,0.000,,,0.1002,0.1398,0.0228,2,c.896C>T,p.A299V,299,missense,unlikely,no,N.A.,"Georgitsi et al., 2007b; Igreja et al., 2010;  Chahal et al 2011; Williams et al 2014","does not affect the AIP-RET interaction (Vargiolu et al., 2009). A299V was described in a sporadic acromegaly patient (Georgitsi et al., 2007) and in Igreja et al., 2010 (F35) and in one exhumed Mexican giant (tooth from skeleton - M. Mercado). This variant, which is conserved in most vertebrates, is located at the beginning of the ?-7 helix in the area that is relevant for PDE4A5 interaction but binding in vitro was less than 3-fold difference from WT. This change was identifiedn 4 subjects of a family where the p.R304* mutation was also detected. Two unaffected patients carried both changes, one unaffected patient carried only A299V while one young female carried only A299V and was diagnosed with a microprolactinoma at the age of 30 years. As AIP knockout mice are not viable (Lin et al., 2007), and the subjects with the compound heterozygote genotype with the certainly pathogenic p.R304* mutation are unaffected, this variant is unlikely to have a functional impact (Igreja et al., 2010). However, this variant was found to have a shorter half-life than WT (Martucci et al., 2012). Moreover, this amino acid may disrupt some small degree of packing with Leu292 (Morgan et al., 2012)",
+exon 6,67258377,rs142912418,0.000,,0.5,0.0154,0.0116,0.0228,3,c.906G>A (p.(=)),p.V302V,302,synonymous,no,,unlikely,"Georgitsi et al., 2007b; Rowlands et al., 2011, our lab F199, PRL - Dublin27 carrier, affected brother wt","this rare SNP was found in 3 sp. unselected ACRO pts., 2 of whom had no LOH (Georgitsi 2007 PNAS), 1 out of 29 Caucasian controls in Rowlands et al., 2011. In the same study an in silico prediction support the non pathogenicity of this variant. F199 - FIPA PRL, 2 young males, macro PRL, only 1 carries the variant. No predicted effect on splicing.",
+exon 6,67258381,rs104894195/AM236344,,,,,,,1,c.910C>T,p.R304*,304,nonsense,yes,,,"Vierimaa et al., 2006; Daly et al., 2007; Cazabat et al., 2007; Leontiou et al., 2008; Occhi et al., 2010a; Igreja et al., 2010; Chahal et al., 2011; Tichomirowa et al., 2011; Cazabat et al., 2012 & Cuny et al., 2013; De Lima et al., 2012; Niyazogly et al., 2013; Williams et al 2014","in De Lima et al., 2012, only tumoral DNA was analysed, so, even if very unlikely, it cannot be excluded that the mutation is somatic (in the article is not reported if the mutation was in eterozygosis or emyzigosis). Predicted to disrupt AhR binding (Morgan et al., 2012)",
+exon 6,67258382,rs104894190/EF203236,,,,0.0693,0.1048,0,2,c.911G>A,p.R304Q,304,missense,yes,N.A.,N.A.,"Georgitsi et al., 2007b; Cazabat et al., 2007; Leontiou et al., 2008; Vargiolu et al., 2009; Occhi et al., 2010b; Igreja et al., 2010; Tichomirowa et al., 2011; Cazabat et al., 2012; Cuny et al., 2013; Pardi et al., 2013","based mainly on clinical data. Functional data at the moment are not supporting the pathogenicity [no disruption of PDE4A5 and RET interaction, and half-life similar to the wt protein (Martucci et al., 2012)] and no LOH in a patient's tumour tissue (unpublished data). The arginine is predicted to be not involved in packing but is probably required for client-protein interaction (Prodromou's personal communication) Found also in 2 parathyroid adenomas (Pardi et al., 2013). In one 1 of them LOH analysis was performed and LOH was not found",
+exon 6,67258390,rs267606589,,,,,,,-,c.919dupC,p.(Q307Pfs*?),307,frameshift,yes,,,"Stratakis et al., 2010","wrong nomenclature in the article (p.Gln307ProfsX104). If there will be RNA data and see that is degraded, the name at the protein level will be changed as p.0 (meaning no protein)",
+exon 6,67258391,rs4930199 ,N.D.,,,0.0231,0,0.0683,2,c.920A>G,p.Q307R,307,missense,unlikely,no,no,,"This amino acid does not effect packing, but may potentially affect client-protein binding. Found in pcDNA3-hAIP-myc plasmid",
+exon 6,67258391,rs4930199 ,N.D.,,,,,,2,c.920A>C,p.Q307P,307,missense,N.A.,N.A.,N.A.,,"tri-allelic SNP with multiple submissions, this mutant allele only seen in 2 African Bushman samples, 1 homozygous!, not seen in EVS",
+exon 6,67258411,rs375740557,N.D.,,,0.0077,0.0117,0,1,c.940C>T,p.R314W,314,missense,N.A.,unlikely,likely,"Baciu et al., 2012",2 Romanian Sp acro pts. (one also heterzygous for E293V) and also 1/4287 European American EVS samples,
+exon 6,67258414,,,,,,,,,c.943C>T,p.Q315X,315,nonsense,yes,,,"Iwata et al., 2014","FIPA - 3 early-onset ACROs, LOH found in 1 tumor examined, mutation found to inhibit the ability of AIP to inhibit cell proliferation",
+exon 6,67258420,rs145025838,0.001,,,0.0077,0.0117,0,1,c.949G>T,p.D317Y,317,missense,N.A.,no,likely,,1/4286 European EVS samples,
+exon 6,67258422,rs138814192,0.001,,,0.0077,0,0.0228,3,c.951C>T (p.(=)),,317,synonymous,N.A.,,unlikely
+exon 6,67258426,,,,,,,,1,c.955G>A,p.E319K,319,missense,N.A.,unlikely,N.A.,"Cai et al., 2013","In Cai et al., 2013 discordant results on LOH are reported based on MLPA and microsatellite analysis. Pathogenicity based on this result and in silico analysis",
+exon 6,67258436,rs267606586,,,,,,,2,c.965C>T,p.A322V,322,missense,unlikely,no,no,"Cazabat et al., 2007",this amino acid is locate outside the resolved TPR structure but could affect client-protein binding (Prodromou's personal communication),
+exon 6,67258438,rs188965257,0.004,,0.18,,,,1,c.967C>T,p.R323W,323,missense,likely,unlikely,likely,"Cai et al., 2013","In Cai et al., 2013 found in a sporadic NFPA patient with a giant adenoma. In the same article LOH was found. Pathogenicity based on this result",
+exon 6,67258438,,,,,,,,1,c.967delC,p.R323Gfs*39,323,frameshift,yes,,,unpublished data from our group (Sp253),,
+exon 6,67258445,,,,,,,,2,c.974G>A,p.R325Q,325,missense,likely,unlikely,unlikely,"Cazabat et al., 2012; Garcia-Arnes et al., 2013","not found in controls. Found in 1 young female macroprolactinoma pt and in 1 FIPA family (a 16 yrs old male giant pure prolactinoma and his mother - macro NFPA at 33 yrs). The mutation can potentially affect client-protein binding. It is only 1 residue short of the 5-residue deletion that disrupts AhR binding (Morgan et al., 2012). Pathogenicity based on Garcia-Arnes et al., 2013 where LOH was detected and its location
+",
+exon 6,67258447,,,,,,,,1,c.976G>A,p.G326R,326,missense,likely,no,unlikely,"Cai et al., 2013","In Cai et al., 2013 LOH was found. Pathogenicity based on this result",
+exon 6,67258447,,,,,,,,-,c.976_977insC,p.(G326Afs*?),326,frameshift,yes,,,unpublished data from our group (Sp366),if we will have RNA data and see that is degraded we should change the name at the protein level as p.0 (meaning no protein),
+exon 6,67258449,,,,,,,,-,c.978dupG,p.(I327Dfs*?),327,frameshift,yes,,,unpublished data from our group (Sp207),if we will have RNA data and see that is degraded we should change the name at the protein level as p.0 (meaning no protein),
+exon 6,67258452,rs1049565 ,N.D.,,,,,,3,c.981C>T (p.(=)),,327,synonymous,no,,unlikely,"Rowlands et al., 2011",,
+exon 6,67258458,rs267606587,,,,,,,3,c.987C>T (p.(=)),,329,synonymous,unlikely,,unlikely,"Cazabat et al., 2007",,
+exon 6,67258461,,,,,,,,3,c.991T>C,p.X331R,331,missense,,,
+3'UTR,67258478,rs142567224,0.007,,0.37,0.0706,0,0.2091,-,c.*14C>A,-,-,,N.A.,,no
+3'UTR,67258498,,,,,,,,-,c.*34C>G,-,-,,N.A.,,unlikely,"Cazabat et al., 2007",,
+3'UTR,67258520,,,,,,,,-,c.*56C>G,-,-,,N.A.,,no,"Cazabat et al., 2007",,
+3'UTR,67258524,rs146014363,0.056,,2.89,,,,-,c.*60G>C,-,-,,no,,no,"Georgitsi et al., 2007b; Iwata et al., 2007; Cazabat et al., 2007; Buchbinder et al., 2008; Leontiou et al., 2008; Tichomirowa et al., 2011; Cai et al., 2013","In Cai et al., 2013 found in 2 FIPA families, 10 sporadic GH-secreting, 4 PRL-secreting, 6 ACTH-secreting, and 8 NFPA patients, as well as in 12 Chinese controls. Wrong nomenclature in Leontiou et al., 2008 (c.1053G>C). Old HGVS nomenclature in Cai et al., 2013",
+3'UTR,67258527,,,,,,,,-,c.*63C>T,-,-,,unlikely,,no,"Tichomirowa et al., 2011",,
+3'UTR,67258528,rs115346238,0.005,,0.23,,,,-,c.*64G>A,-,-,,N.A.,,no
+3'UTR,67258534,,,,,,,,-,c.*70C>T,-,-,,N.A.,,unlikely,"Occhi et al., 2010b","located within miR-107 binding site but found in a sporadic acromegaly patient and in 2 out of 90 healthy controls (Occhi et al., 2010b)",
+3'UTR,67258541,,,,,,,,-,c.*77C>A,-,-,,N.A.,,no,"Leontiou et al., 2008","wrong nomenclature given by Maria in our patients database (C1187A). Also wrong nomenclature in Leontiou et al., 2008 (c.1070C>A)",
+3'UTR,67258578,rs139914545,0.003,,0.14,,,,-,c.*114G>C,-,-,,unlikely,,likely,"Leontiou et al., 2008",pathogenicity based on the fact that this variation was found together with the pathogenic mutation g.4856_4857CG>AA in patients from family E in our cohort,
+3' near gene,67258633,rs369548473,N.D.,,,,,,-,c.*169A>G,-,-,,N.A.,,
+3' near gene,67258720,rs12361982 ,N.D.,,,,,,-,c.*256G>C,-,-,,N.A.,,
+3' near gene,67258798,rs75044644 ,0.025,,1.29,,,,-,c.*334T>G,-,-,,unlikely,,
+3' near gene,67258805,rs751567 ,0.069,,3.58,,,,-,c.*341G>C,-,-,,unlikely,,
+3' near gene,67258857,rs193245280,0.003,,0.14,,,,-,g.*393C>G,-,-,,N.A.,,
+3' near gene,67258884,rs149754566,0.006,,0.32,,,,-,c.*420C>T,-,-,,N.A.,,
+3' near gene,67258960,rs144589607 ,0.001,,0.05,,,,-,c.*496C>T,-,-,,N.A.,,
+3' near gene,67258963,rs375110677,N.D.,,,,,,-,c.*499G>A,-,-,,N.A.,,
+3' near gene,67259006,rs148408490,0.002,,0.09,,,,-,c.*542G>A,-,-,,N.A.,,
+,,,,,,,,,-,c.-1213_279+578del (ex1_ex2del),-,-,large genomic deletions,yes,,,"Georgitsi et al., 2008; Igreja et al., 2010",,
+,,,,,,,,,-,c.100-1025_279+357del (ex2del),p.A34_K93del,-,large genomic deletions,yes,,,"Georgitsi et al., 2008",,
+,,,,,,,,,-,c.1-?_993+?del,-,-,large genomic deletions,yes,,,"Igreja et al., 2010",,
+
+Variants identified until December 2012 in the AIP gene
+
+"Data were retrieved from the Database of Single Nucleotide Polymorphisms (dbSNP) Build 137 available at http://www.ncbi.nlm.nih.gov/projects/SNP/; from the Exome Variant Server (EVS), NHLBI Exome Sequencing Project (ESP) available at http://evs.gs.washington.edu/EVS/ (both accessed in December 2012); from the COSMIC Catalogue of somatic mutations in cancer (http://cancer.sanger.ac.uk/cancergenome/projects/cosmic/); and from the relevant literature presents in PubMed "
+
+Variants are reported in the ‘Chr. Position’ column according to the GRCh37/hg19 assembly of the human genome
+
+Variants nomenclature has been checked with Mutalyzer 2.0.beta-21 (http://www.lovd.nl/mutalyzer/)
+
+"Data in the ‘Pathogenicity’ column is estimated based on available genetic, clinical and experimental data and represents the authors’ opinion. Five different categories are used in this column: “no” and “yes” are reported when there are sufficient clinical and/or experimental data to exclude/assert with high confidence the pathogenicity of the variant, respectively; “unlikely” and “likely” estimate the pathogenicity of the variant based on available in silico predictions [performed with PONP (Pathogenic-or-Not -Pipeline) and Alamut softwares], in vitro studies, allele frequencies (we considered unlikely pathogenic variants with a MAF% equal or more than 1 but less than 5%), presence in controls or in sporadic vs. familial patients, and LOH data; “N.A.” was reported whenever there is no sufficient data, in our opinion, for a variant to be assessed for its pathogenicity. References are divided by semicolon or ampersand depending if the reported variant was described in a different or in the same patient/family, respectively"
+
+Chr: chromosome; MAF: minor allele frequency; EVS: Exome Variant Server; N.D.: not documented; N.A.: not available; del: deletion; dup: duplication; ins: insertion; fs: frameshift; ex: exon
+
+
+
+
+
+
+
+
+
